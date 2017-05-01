@@ -1,0 +1,12 @@
+D:\Учёба\Курсовик Криптография\KursK\KursK\bin\Debug\KursK.exe.config
+D:\Учёба\Курсовик Криптография\KursK\KursK\obj\Debug\KursK.csprojResolveAssemblyReference.cache
+D:\Учёба\Курсовик Криптография\KursK\KursK\obj\Debug\KursK.Form1.resources
+D:\Учёба\Курсовик Криптография\KursK\KursK\obj\Debug\KursK.Properties.Resources.resources
+D:\Учёба\Курсовик Криптография\KursK\KursK\obj\Debug\KursK.csproj.GenerateResource.Cache
+D:\Учёба\Курсовик Криптография\KursK\KursK\bin\Debug\KursK.exe
+D:\Учёба\Курсовик Криптография\KursK\KursK\bin\Debug\KursK.pdb
+D:\Учёба\Курсовик Криптография\KursK\KursK\obj\Debug\KursK.exe
+D:\Учёба\Курсовик Криптография\KursK\KursK\obj\Debug\KursK.pdb
+F:\Курсовик Криптография\KursK\KursK\bin\Debug\KursK.exe.config
+F:\Курсовик Криптография\KursK\KursK\obj\Debug\KursK.exe
+F:\Курсовик Криптография\KursK\KursK\obj\Debug\KursK.pdb
